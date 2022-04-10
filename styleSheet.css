@@ -1,0 +1,48 @@
+*{
+    color: rgb(255, 255, 255);  
+      
+}
+.container{
+    width: 320px;
+    background-color:   #353636;
+    margin: 120px auto;
+    border-radius: 9px;
+}
+body{
+background-image: url("background.jpg");
+
+}
+table{
+    width: 100%;
+    border-color: #353636;
+    
+}
+button{
+    width: 100%;
+    height: 60px;
+    font-size: medium;
+    background-color:  #353636;
+    border-radius: 8px;
+    cursor:pointer;
+    
+  
+}
+button:hover{
+    background:rgb(3, 3, 3);
+}
+.AC{
+    background-color: rgb(145, 16, 16);
+}
+
+
+
+
+#inputDisplay{
+    height: 65px;
+    font-size: 40px;
+    text-align: right;
+    background-color:  #353636;
+ 
+    color: rgb(255, 255, 255);
+
+}
